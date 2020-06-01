@@ -48,7 +48,7 @@ userNameInput.onkeydown = event => {
 const answers = [
     '{userName}のいいところは声です。{userName}の特徴的な声は皆を惹きつけ、心に残ります。',
     '{userName}のいいところはまなざしです。{userName}に見つめられた人は、気になって仕方がないでしょう。',
-    '{userName}のいいところは情熱です。{userName}の情熱に周りの人は感化されます。{userName}はかわいい。',
+    '{userName}のいいところは情熱です。{userName}の情熱に周りの人は感化されます。',
     '{userName}のいいところは厳しさです。{userName}の厳しさがものごとをいつも成功に導きます。',
     '{userName}のいいところは知識です。博識な{userName}を多くの人が頼りにしています。',
     '{userName}のいいところはユニークさです。{userName}だけのその特徴が皆を楽しくさせます。',
@@ -62,6 +62,7 @@ const answers = [
     '{userName}のいいところは気配りです。{userName}の配慮が多くの人を救っています。',
     '{userName}のいいところはその全てです。ありのままの{userName}自身がいいところなのです。',
     '{userName}のいいところは自制心です。やばいと思ったときにしっかりと衝動を抑えられる{userName}が皆から評価されています。'
+    '{userName}のいいところは優しさです。{userName}の優しい雰囲気や立ち振る舞いに多くの人が癒やされています。'
 ];
 /**
  * 指定した要素の子供をすべて削除する
